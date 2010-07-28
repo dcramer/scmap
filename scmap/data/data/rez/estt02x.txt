@@ -1,0 +1,14 @@
+</COMMENT Establishing Shot for Terran Level 2x>
+
+</FADESPEED 100>
+</DISPLAYTIME 8000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpcx\XProtosC.pcx>
+</FONTCOLOR glue\palpcx\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"THE DYLARIAN SHIPYARDS"
+
+UED Flagship Aleksander, holding perimeter orbit over the Dylarian Shipyards; outlying Dominion trade center
+</PAGE>

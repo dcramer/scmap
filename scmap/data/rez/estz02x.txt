@@ -1,0 +1,14 @@
+</COMMENT Establishing Shot for Zerg Level 2x>
+
+</FADESPEED 100>
+</DISPLAYTIME 8000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpbx\XProtosB.pcx>
+</FONTCOLOR glue\palpbx\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"REIGN OF FIRE"
+
+High orbit over the planet Braxis
+</PAGE>

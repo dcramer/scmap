@@ -1,0 +1,26 @@
+</COMMENT Establishing Shot for Zerg Level 1>
+
+</FADESPEED 100>
+</DISPLAYTIME 28000>
+
+</COMMENT Confusing - what are the protoss doing? #############################################################>
+</BACKGROUND glue\palza\Blank.pcx>
+</FONTCOLOR glue\palza\tfont.pcx>
+
+</SCREENLEFT>
+ZERG CAMPAIGN: OVERMIND
+
+The Swarms have crushed the meager human resistance and laid waste to nine of the thirteen Terran worlds. Shortly after the fall of the Terran capitol world of Tarsonis, the main Protoss fleet abandoned the Terran Sector. Now, efforts continue on Tarsonis to weed out the remaining Protoss forces.
+</PAGE>
+
+
+</COMMENT #############################################################>
+</DISPLAYTIME 5000>
+</BACKGROUND glue\palza\ZergA.pcx>
+</FONTCOLOR glue\palza\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"AMONG THE RUINS"
+
+Confederate Capitol World Tarsonis
+</PAGE>

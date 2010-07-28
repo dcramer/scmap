@@ -1,0 +1,643 @@
+ Volume in drive T is Famine
+ Volume Serial Number is AC2E-E2CA
+
+ Directory of T:\Projects\Star\Final\unit
+
+ Volume in drive T is Famine
+ Volume Serial Number is AC2E-E2CA
+
+ Directory of T:\Projects\Star\Final\unit\bullet
+
+01/17/98  08:27p                 2,468 blastcan.grp
+01/17/98  08:27p                 1,069 dragbull.grp
+01/17/98  08:27p                 2,969 explo1.grp
+01/17/98  08:27p                49,385 eycBull.grp
+01/17/98  08:27p                 3,430 gemini.grp
+01/17/98  08:27p                   297 grenade.grp
+01/17/98  08:27p                   912 hks.grp
+01/17/98  08:27p                 2,499 missile.grp
+01/17/98  08:27p                 3,313 parasite.grp
+01/17/98  08:27p                 5,501 PDripHit.grp
+01/17/98  08:27p                   840 PsiBeam.grp
+01/17/98  08:27p                 1,863 pspark.grp
+01/17/98  08:27p                 1,225 scvSpark.grp
+01/17/98  08:27p                   964 shockbmb.grp
+01/17/98  08:27p                   876 Spore2.grp
+01/17/98  08:27p                 1,866 Spores.grp
+01/17/98  08:27p                   859 squib1.grp
+01/17/98  08:27p                   900 squib2.grp
+01/17/98  08:27p                 1,828 Tentacle.grp
+01/17/98  08:27p                 2,389 tspark.grp
+01/17/98  08:27p                 1,237 zspark.grp
+              21 File(s)         86,690 bytes
+                          1,484,275,712 bytes free
+ Volume in drive T is Famine
+ Volume Serial Number is AC2E-E2CA
+
+ Directory of T:\Projects\Star\Final\unit\bullet\LowM
+
+ Volume in drive T is Famine
+ Volume Serial Number is AC2E-E2CA
+
+ Directory of T:\Projects\Star\Final\unit\cmdbtns
+
+01/23/98  11:17a               201,807 cmdicons.grp
+01/17/98  08:27p                14,802 pcmdbtns.grp
+01/17/98  08:27p                14,499 tcmdbtns.grp
+01/17/98  08:27p                14,499 zcmdbtns.grp
+               4 File(s)        245,607 bytes
+                          1,484,275,712 bytes free
+ Volume in drive T is Famine
+ Volume Serial Number is AC2E-E2CA
+
+ Directory of T:\Projects\Star\Final\unit\cmdbtns\LowM
+
+ Volume in drive T is Famine
+ Volume Serial Number is AC2E-E2CA
+
+ Directory of T:\Projects\Star\Final\unit\flingy
+
+01/17/98  08:27p                   896 pg1deb.grp
+01/17/98  08:34p                 1,302 pg2deb.grp
+01/17/98  08:38p                 1,229 pg3deb.grp
+01/17/98  08:38p                 2,918 pg4deb.grp
+01/17/98  08:38p                 2,614 pg5deb.grp
+01/17/98  08:38p                 1,790 pscdeb.grp
+01/17/98  08:38p                   317 tg5deb.grp
+               7 File(s)         11,066 bytes
+                          1,484,275,712 bytes free
+ Volume in drive T is Famine
+ Volume Serial Number is AC2E-E2CA
+
+ Directory of T:\Projects\Star\Final\unit\flingy\LowM
+
+ Volume in drive T is Famine
+ Volume Serial Number is AC2E-E2CA
+
+ Directory of T:\Projects\Star\Final\unit\neutral
+
+01/20/98  05:25p                68,063 ACritter.grp
+01/20/98  05:25p               112,883 BCritter.grp
+01/24/98  09:39p                 4,994 Cbattle.grp
+01/20/98  04:40p                25,322 Civilian.grp
+01/17/98  08:38p                 1,793 DataDisk.grp
+01/20/98  04:19p                 3,106 Flag.grp
+01/17/98  08:38p                 2,156 GasOrb.grp
+01/17/98  08:38p                 4,940 GasSac.grp
+01/20/98  04:10p                   525 GasTank.grp
+01/27/98  05:14a                12,211 Geyser.grp
+01/20/98  04:45p                11,196 Ion.grp
+01/20/98  05:25p                68,501 JCritter.grp
+01/17/98  08:38p                 6,425 KerrChry.grp
+01/17/98  08:38p                 2,644 KerrEgg.grp
+01/17/98  08:38p                   466 KhChunk.grp
+01/23/98  10:02a                 8,093 Khyad01.grp
+01/17/98  08:38p                 8,076 Min01.grp
+01/17/98  08:38p                 7,495 Min02.grp
+01/17/98  08:38p                 7,100 Min03.grp
+01/17/98  08:38p                 2,303 OreChunk.grp
+01/17/98  08:38p                 3,414 PsiEmit.grp
+01/17/98  08:38p                 8,155 Starbase.grp
+01/20/98  04:45p                 8,279 Stasis.grp
+01/24/98  09:39p                19,230 Temple.grp
+              24 File(s)        397,370 bytes
+                          1,484,275,712 bytes free
+ Volume in drive T is Famine
+ Volume Serial Number is AC2E-E2CA
+
+ Directory of T:\Projects\Star\Final\unit\neutral\LowM
+
+ Volume in drive T is Famine
+ Volume Serial Number is AC2E-E2CA
+
+ Directory of T:\Projects\Star\Final\unit\protoss
+
+01/17/98  08:38p                25,154 arbiter.grp
+01/17/98  08:38p                 5,003 archives.grp
+01/17/98  08:38p                53,896 archon.grp
+01/17/98  08:38p               166,800 archonT.grp
+01/17/98  08:38p                 6,255 archonT2.grp
+01/17/98  08:38p                 7,145 assim.grp
+01/17/98  08:38p                 4,078 beacon.grp
+01/17/98  08:38p                71,320 carrier.grp
+01/17/98  08:38p                 3,889 citadel.grp
+01/20/98  06:44p                71,395 dragoon.grp
+01/17/98  08:38p               126,029 dtemplar.grp
+01/17/98  08:38p                 4,829 forge.grp
+01/17/98  08:38p                 2,715 forgeT.grp
+01/17/98  08:39p                 8,264 gateway.grp
+01/17/98  08:39p                 5,249 gencore.grp
+01/21/98  09:27p                 1,969 gencoreT.grp
+01/17/98  08:39p                14,251 Intercep.grp
+01/17/98  08:39p                10,774 nexus.grp
+01/17/98  08:39p                 3,395 pCircle.grp
+01/17/98  08:38p                 7,856 pdrDeath.grp
+01/17/98  08:39p                 7,682 photon.grp
+01/17/98  08:39p                 4,227 Prism.grp
+01/17/98  08:39p                 3,578 probe.grp
+01/17/98  08:39p                 2,171 pylon.grp
+01/17/98  08:39p                 5,323 robotic.grp
+01/17/98  08:39p                 1,704 sapper.grp
+01/17/98  08:39p                 2,479 SBattery.grp
+01/17/98  08:39p                28,275 scout.grp
+01/17/98  08:39p                18,575 shuttle.grp
+01/17/98  08:39p                 6,788 stargate.grp
+01/17/98  08:39p                 4,763 stasis.grp
+01/20/98  06:02p                89,750 templar.grp
+01/17/98  08:39p               193,832 texture.grp
+01/17/98  08:39p               160,857 trilob.grp
+01/17/98  08:39p                 6,237 Warp.grp
+01/17/98  08:39p                10,673 witness.grp
+01/20/98  05:44p                78,325 Zealot.grp
+              37 File(s)      1,225,505 bytes
+                          1,484,275,712 bytes free
+ Volume in drive T is Famine
+ Volume Serial Number is AC2E-E2CA
+
+ Directory of T:\Projects\Star\Final\unit\protoss\LowM
+
+01/17/98  08:43p                13,437 arbiter.grp
+01/17/98  08:43p                15,099 scout.grp
+01/17/98  08:43p                 9,883 shuttle.grp
+01/17/98  08:43p                 5,675 witness.grp
+               4 File(s)         44,094 bytes
+                          1,484,275,712 bytes free
+ Volume in drive T is Famine
+ Volume Serial Number is AC2E-E2CA
+
+ Directory of T:\Projects\Star\Final\unit\terran
+
+01/17/98  08:39p                 9,737 Academy.grp
+01/17/98  08:39p                   358 AcademyT.grp
+01/17/98  08:40p                63,710 BattleCr.grp
+01/17/98  08:39p                11,042 ChemLab.grp
+01/17/98  08:39p                 1,619 ChemLabT.grp
+01/17/98  08:39p                 3,968 ComSat.grp
+01/17/98  08:39p                 1,986 ComSatC.grp
+01/17/98  08:39p                 4,126 ComSatT.grp
+01/17/98  08:39p                39,830 Control.grp
+01/17/98  08:39p                 1,000 ControlT.grp
+01/17/98  08:39p                 8,412 Depot.grp
+01/17/98  08:39p                15,643 DepotT.grp
+01/17/98  08:40p                25,292 Dropship.grp
+01/17/98  08:39p                 2,888 DryDockC.grp
+01/17/98  08:39p                 5,776 DryDocks.grp
+01/17/98  08:39p                   132 DryDockT.grp
+01/17/98  08:39p                47,015 Factory.grp
+01/17/98  08:39p                   234 FactoryT.grp
+01/17/98  08:40p                49,207 Firebat.grp
+01/17/98  08:39p                 4,304 GeneLab.grp
+01/17/98  08:39p                 4,264 GeneLabC.grp
+01/17/98  08:40p                    49 GeneLabT.grp
+01/17/98  08:40p                48,207 Ghost.grp
+01/20/98  06:44p                65,055 goliath.grp
+01/17/98  08:40p                70,084 goliathT.grp
+01/17/98  08:40p                 1,504 MachineC.grp
+01/17/98  08:40p                17,808 MachineS.grp
+01/25/98  08:21p                62,876 marine.grp
+01/17/98  08:40p                 4,373 Missile.grp
+01/23/98  10:02a                28,519 MissileT.grp
+01/21/98  09:27p                 1,398 NukeMiss.grp
+01/17/98  08:40p                 2,829 NukeSilC.grp
+01/17/98  08:40p                 4,813 NukeSilo.grp
+01/17/98  08:40p                   180 NukeSilT.grp
+01/17/98  08:40p                16,468 Phoenix.grp
+01/17/98  08:40p                17,555 Physics.grp
+01/17/98  08:40p                 3,246 PhysicsC.grp
+01/17/98  08:40p                 6,302 PillBox.grp
+01/20/98  08:38p                 2,042 PillBoxT.grp
+01/17/98  08:40p                29,837 Refinery.grp
+01/17/98  08:40p                35,553 Research.grp
+01/17/98  08:40p                    91 ResearcT.grp
+01/17/98  08:40p                21,467 SCV.grp
+01/17/98  08:40p                 2,809 spider.grp
+01/25/98  05:35p                15,737 stank.grp
+01/25/98  05:35p                13,037 stankt.grp
+01/17/98  08:40p                29,120 StarPort.grp
+01/17/98  08:40p                   251 StarPoT.grp
+01/25/98  05:35p                57,610 tank.grp
+01/25/98  05:35p                 7,141 tankt.grp
+01/17/98  08:40p                52,525 TBarrack.grp
+01/17/98  08:40p                 8,184 TBldLrg.grp
+01/17/98  08:40p                 4,979 TBldMed.grp
+01/17/98  08:40p                 3,189 TBldSml.grp
+01/17/98  08:40p                 3,695 tCircle.grp
+01/17/98  08:40p                 1,060 tghDeath.grp
+01/17/98  08:40p                 1,320 tmaDeath.grp
+01/20/98  06:44p                44,440 UGhost.grp
+01/20/98  06:30p                 9,204 Vulture.grp
+01/17/98  08:40p                29,309 WeaponPl.grp
+01/17/98  08:40p                 4,522 WeaponPT.grp
+01/17/98  08:40p                 2,345 wessel.grp
+01/17/98  08:40p                 2,722 wesselt.grp
+              63 File(s)      1,033,998 bytes
+                          1,484,275,712 bytes free
+ Volume in drive T is Famine
+ Volume Serial Number is AC2E-E2CA
+
+ Directory of T:\Projects\Star\Final\unit\terran\LowM
+
+01/17/98  08:43p                13,470 Dropship.grp
+01/17/98  08:43p                 8,765 Phoenix.grp
+               2 File(s)         22,235 bytes
+                          1,484,275,712 bytes free
+ Volume in drive T is Famine
+ Volume Serial Number is AC2E-E2CA
+
+ Directory of T:\Projects\Star\Final\unit\thingy
+
+01/17/98  08:40p                 5,555 bblood01.grp
+01/17/98  08:40p                 3,443 bblood02.grp
+01/17/98  08:40p                 2,647 bblood03.grp
+01/17/98  08:40p                 3,762 bblood04.grp
+01/17/98  08:40p                 2,385 bDust.grp
+01/17/98  08:40p                 1,000 blackx.grp
+01/17/98  08:40p                15,959 blood01.grp
+01/17/98  08:40p                 5,298 blood02.grp
+01/17/98  08:40p                 8,733 dbl_exp.grp
+01/17/98  08:40p                 2,401 Dust01.grp
+01/17/98  08:40p                 2,001 Dust02.grp
+01/17/98  08:40p                 2,404 Dust03.grp
+01/17/98  08:40p                 2,281 Dust04.grp
+01/17/98  08:40p                 2,298 Dust05.grp
+01/17/98  08:40p                   920 Dust06.grp
+01/17/98  08:40p                 1,461 Dust07.grp
+01/17/98  08:40p                   727 Dust08.grp
+01/17/98  08:40p                 1,270 Dust09.grp
+01/17/98  08:40p                37,173 ebbCloud.grp
+01/27/98  02:52p                 3,936 ebbHitL.grp
+01/27/98  02:52p                 1,891 ebbHitM.grp
+01/27/98  02:52p                   993 ebbHitS.grp
+01/17/98  08:40p                 7,437 Elect02.grp
+01/17/98  08:41p                 7,437 Elect02a.grp
+01/17/98  08:41p               113,914 emsBeam.grp
+01/17/98  08:41p                10,206 emsHit.grp
+01/17/98  08:41p                 3,936 ensGooL.grp
+01/17/98  08:41p                 1,891 ensGooM.grp
+01/17/98  08:41p                   993 ensGooS.grp
+01/17/98  08:41p                38,750 ensnare.grp
+01/17/98  08:41p                 3,986 ep2Fire.grp
+01/17/98  08:41p                 2,316 eveCast.grp
+01/17/98  08:41p                 1,062 explo2.grp
+01/17/98  08:41p                 2,887 geysmok1.grp
+01/17/98  08:41p                 2,680 geysmok2.grp
+01/17/98  08:41p                 2,125 geysmok3.grp
+01/17/98  08:41p                 2,008 geysmok4.grp
+01/17/98  08:41p                 1,414 geysmok5.grp
+01/17/98  08:41p                   568 geysmoS1.grp
+01/17/98  08:41p                 2,724 greSmoke.grp
+01/17/98  08:41p                 9,917 halmind.grp
+01/17/98  08:41p                12,799 HKexplod.grp
+01/17/98  08:41p                   300 NukeBeam.grp
+01/17/98  08:41p                    44 NukeTarg.grp
+01/17/98  08:41p                15,379 pexplode.grp
+01/17/98  08:41p                 4,214 phohit.grp
+01/17/98  08:41p                34,918 PlasDrip.grp
+01/17/98  08:41p                16,436 pRubbleL.grp
+01/17/98  08:41p                 9,759 pRubbleS.grp
+01/17/98  08:41p                50,727 psiStorm.grp
+01/17/98  08:41p                19,595 pteGlow.grp
+01/17/98  08:41p                11,162 RubbleL.grp
+01/17/98  08:41p                 6,862 RubbleS.grp
+01/17/98  08:41p                 6,252 sbaLarge.grp
+01/17/98  08:41p                 1,451 sbaSmall.grp
+01/17/98  08:41p                17,230 spooge.grp
+01/17/98  08:41p                16,372 zAirDthL.grp
+01/17/98  08:41p                 7,222 zAirDthS.grp
+01/17/98  08:41p                40,194 zBldDthS.grp
+01/17/98  08:41p                22,728 zRubbleL.grp
+01/17/98  08:41p                10,532 zRubbleS.grp
+              61 File(s)        628,965 bytes
+                          1,484,275,712 bytes free
+ Volume in drive T is Famine
+ Volume Serial Number is AC2E-E2CA
+
+ Directory of T:\Projects\Star\Final\unit\thingy\LowM
+
+01/20/98  07:00p                 2,837 bBlood01.grp
+01/20/98  07:00p                 1,731 bBlood02.grp
+01/20/98  07:00p                 1,399 bBlood03.grp
+01/20/98  07:00p                 1,931 bBlood04.grp
+01/20/98  07:02p                 1,278 dust01.grp
+01/20/98  07:02p                 1,091 dust02.grp
+01/20/98  07:02p                 1,278 dust03.grp
+01/20/98  07:02p                 1,232 dust04.grp
+01/20/98  07:02p                 1,237 dust05.grp
+01/20/98  07:02p                   515 dust06.grp
+01/20/98  07:02p                   794 dust07.grp
+01/20/98  07:02p                   410 dust08.grp
+01/20/98  07:02p                   700 dust09.grp
+01/20/98  07:02p                18,494 ebbCloud.grp
+01/20/98  07:02p                52,542 emsBeam.grp
+01/20/98  07:02p                 5,171 emsHit.grp
+01/20/98  07:02p                19,939 ensnare.grp
+01/20/98  07:02p                 6,402 hkexplod.grp
+01/20/98  07:03p                19,866 zblddthS.grp
+              19 File(s)        138,847 bytes
+                          1,484,275,712 bytes free
+ Volume in drive T is Famine
+ Volume Serial Number is AC2E-E2CA
+
+ Directory of T:\Projects\Star\Final\unit\thingy\Tileset
+
+ Volume in drive T is Famine
+ Volume Serial Number is AC2E-E2CA
+
+ Directory of T:\Projects\Star\Final\unit\thingy\Tileset\ashworld
+
+01/26/98  07:45p                 1,274 HASRoc01.grp
+01/26/98  07:45p                   623 HASRoc02.grp
+01/26/98  07:45p                   983 HASRoc03.grp
+01/26/98  07:45p                 1,257 HASRoc04.grp
+01/26/98  07:45p                 2,110 HASRoc05.grp
+01/26/98  07:45p                 2,159 HASRoc06.grp
+01/26/98  08:42p                 3,204 LALRoc01.grp
+01/26/98  08:42p                 4,450 LALRoc02.grp
+01/26/98  08:42p                 3,927 rock01.grp
+01/26/98  08:42p                 3,840 rock02.grp
+01/26/98  08:42p                 4,367 rock03.grp
+01/26/98  08:42p                 3,719 rock04.grp
+01/26/98  08:42p                 3,350 rock05.grp
+01/26/98  07:45p                 2,195 RORock01.grp
+01/26/98  07:45p                 1,887 RORock02.grp
+01/26/98  07:45p                 1,766 RORock03.grp
+              16 File(s)         41,111 bytes
+                          1,484,275,712 bytes free
+ Volume in drive T is Famine
+ Volume Serial Number is AC2E-E2CA
+
+ Directory of T:\Projects\Star\Final\unit\thingy\Tileset\badlands
+
+01/26/98  08:42p                 1,505 HDRock01.grp
+01/27/98  05:20a                 1,844 HDRock02.grp
+01/26/98  07:47p                 1,423 HDRock03.grp
+01/26/98  07:47p                 2,011 HDRock04.grp
+01/26/98  07:47p                   982 HDRock05.grp
+01/26/98  07:47p                   845 HDRock06.grp
+01/26/98  07:47p                 1,349 HDRock07.grp
+01/26/98  07:47p                   925 HDRock08.grp
+01/26/98  07:47p                 4,190 HDTree01.grp
+01/26/98  07:47p                 2,958 HDTree02.grp
+01/26/98  07:47p                 3,708 HDTree03.grp
+01/26/98  07:47p                 6,258 HDTree04.grp
+01/26/98  07:47p                 2,244 HDVent01.grp
+01/26/98  07:47p                 3,446 HGTree01.grp
+01/26/98  07:47p                 1,245 LCShop01.grp
+01/26/98  07:47p                 1,245 LCShop02.grp
+01/26/98  09:01p                 2,821 LCShop03.grp
+01/26/98  09:01p                 3,012 LCShop04.grp
+01/26/98  07:47p                   880 LCShop05.grp
+01/26/98  07:47p                   880 LCShop06.grp
+01/26/98  09:01p                 2,742 LCShop07.grp
+01/26/98  09:01p                 2,817 LCShop08.grp
+01/26/98  08:42p                 2,213 LCShop09.grp
+01/26/98  08:42p                 2,215 LCShopAA.grp
+01/26/98  07:47p                 5,869 LCSign01.grp
+01/26/98  07:47p                 5,603 LCSign02.grp
+01/26/98  07:47p                 5,477 LCSign03.grp
+01/26/98  07:47p                 5,795 LCSign04.grp
+01/26/98  07:47p                 5,516 LCSign05.grp
+01/26/98  07:47p                 5,518 LCSign06.grp
+01/26/98  07:48p                 5,689 LCSign07.grp
+01/26/98  07:48p                 5,649 LCSign08.grp
+01/26/98  07:48p                 5,806 LCSign09.grp
+01/26/98  07:48p                 5,732 LCSignAA.grp
+01/26/98  07:48p                 5,723 LCSignBB.grp
+01/26/98  07:48p                 5,841 LCSignCC.grp
+              36 File(s)        121,976 bytes
+                          1,484,013,568 bytes free
+ Volume in drive T is Famine
+ Volume Serial Number is AC2E-E2CA
+
+ Directory of T:\Projects\Star\Final\unit\thingy\Tileset\install
+
+01/27/98  12:46a                 8,203 CLPlat1T.grp
+01/27/98  12:46a                11,786 CLPlate1.grp
+01/26/98  07:48p                 9,723 CLPlate2.grp
+01/26/98  07:48p                26,500 CRDoor1.grp
+01/26/98  07:48p                15,504 DCFan1.grp
+01/24/98  06:04p                15,504 DCFan2.grp
+01/26/98  07:48p                 7,775 DCGun1.grp
+01/26/98  07:48p                 7,652 DCGun2.grp
+01/26/98  07:48p                   855 DICran1.grp
+01/26/98  07:48p                 1,038 DICran2.grp
+01/26/98  07:48p                   996 DICran3.grp
+01/26/98  07:48p                   819 DICran4.grp
+01/26/98  07:48p                44,914 DIDoor1.grp
+01/26/98  07:48p                 4,706 DIGear1.grp
+01/26/98  07:48p                 5,386 DIGear2.grp
+01/26/98  07:48p               122,877 DIHatc1.grp
+              16 File(s)        284,238 bytes
+                          1,484,013,568 bytes free
+ Volume in drive T is Famine
+ Volume Serial Number is AC2E-E2CA
+
+ Directory of T:\Projects\Star\Final\unit\thingy\Tileset\jungle
+
+01/26/98  07:43p                 2,244 dd025.grp
+01/26/98  07:43p                   872 dd026.grp
+01/26/98  07:43p                 2,237 dd027.grp
+01/26/98  07:43p                 1,892 dd028.grp
+01/26/98  07:43p                 1,967 dd029.grp
+01/26/98  07:43p                 1,114 dd030.grp
+01/26/98  07:43p                 1,113 dd031.grp
+01/26/98  07:43p                 1,037 dd055.grp
+01/26/98  07:43p                 1,317 dd056.grp
+01/26/98  07:43p                 2,237 dd075.grp
+01/26/98  07:43p                 1,967 dd076.grp
+01/26/98  07:43p                 1,892 dd077.grp
+01/26/98  07:43p                 1,093 dd078.grp
+01/26/98  07:43p                 1,029 dd079.grp
+01/26/98  07:43p                 1,670 dd080.grp
+01/26/98  07:43p                 1,138 dd081.grp
+01/26/98  07:43p                 4,044 dd091.grp
+01/26/98  07:43p                 1,101 dd203.grp
+01/26/98  07:43p                 1,693 dd204.grp
+01/26/98  07:43p                 2,445 dd205.grp
+01/26/98  07:43p                 3,839 dd206.grp
+01/26/98  07:43p                 1,945 dd207.grp
+01/26/98  07:43p                10,808 dd209.grp
+01/26/98  07:43p                 2,803 dd210.grp
+01/26/98  07:43p                 2,803 dd211.grp
+01/26/98  08:42p                 1,506 HDRock01.grp
+01/26/98  08:42p                 1,847 HDRock02.grp
+01/26/98  07:43p                 1,423 HDRock03.grp
+01/26/98  07:43p                 2,015 HDRock04.grp
+01/26/98  08:42p                 1,073 JUbush01.grp
+01/27/98  05:16a                 1,510 JUbush03.grp
+01/26/98  08:42p                 1,253 JUbush05.grp
+01/26/98  07:43p                 4,182 LDtree01.grp
+01/26/98  07:43p                 2,956 LDtree02.grp
+01/26/98  07:43p                 3,700 LDtree03.grp
+01/26/98  07:43p                 6,250 LDtree04.grp
+01/26/98  07:43p                 4,124 tree01.grp
+01/26/98  07:43p                 3,824 tree02.grp
+01/26/98  07:43p                 2,883 tree03.grp
+01/26/98  07:43p                 3,315 tree04.grp
+              40 File(s)         98,161 bytes
+                          1,484,013,568 bytes free
+ Volume in drive T is Famine
+ Volume Serial Number is AC2E-E2CA
+
+ Directory of T:\Projects\Star\Final\unit\thingy\Tileset\platform
+
+01/26/98  07:44p                 6,787 Dish01.grp
+01/26/98  07:44p                 6,040 Dish02.grp
+01/26/98  07:44p                 5,220 Dish03.grp
+01/26/98  07:44p                 4,996 Glob01.grp
+01/26/98  07:44p                 5,328 Glob02.grp
+01/26/98  07:44p                 3,453 Glob03.grp
+01/26/98  07:44p                 5,883 LBSign01.grp
+01/26/98  07:44p                 5,589 LBSign02.grp
+01/26/98  07:44p                 5,478 LBSign03.grp
+01/26/98  07:44p                 5,806 LBSign04.grp
+01/26/98  07:44p                 5,505 LBSign05.grp
+01/26/98  07:44p                 5,521 LBSign06.grp
+01/26/98  07:44p                 5,693 LBSign07.grp
+01/26/98  07:44p                 5,738 LBSign08.grp
+01/26/98  07:44p                 4,296 refinery.grp
+01/26/98  07:44p                   601 SPThin01.grp
+01/26/98  07:44p                 2,751 Towr01.grp
+01/26/98  07:44p                 2,475 Towr02.grp
+01/26/98  07:44p                27,549 tree01.grp
+01/26/98  07:44p                30,596 tree02.grp
+              20 File(s)        145,305 bytes
+                          1,484,013,568 bytes free
+ Volume in drive T is Famine
+ Volume Serial Number is AC2E-E2CA
+
+ Directory of T:\Projects\Star\Final\unit\wirefram
+
+01/17/98  08:41p                39,746 grpwire.grp
+01/17/98  08:41p                34,406 tranwire.grp
+01/20/98  04:44p               266,489 wirefram.grp
+               3 File(s)        340,641 bytes
+                          1,484,013,568 bytes free
+ Volume in drive T is Famine
+ Volume Serial Number is AC2E-E2CA
+
+ Directory of T:\Projects\Star\Final\unit\zerg
+
+01/17/98  08:42p                19,551 avenger.grp
+01/20/98  11:13p                42,765 brood.grp
+01/20/98  11:49p                57,098 bugguy.grp
+01/17/98  08:41p                14,276 Cerebrat.grp
+01/17/98  08:41p                18,998 Chrysal.grp
+01/17/98  08:42p                26,169 Cocoon.grp
+01/17/98  08:42p                64,234 defiler.grp
+01/17/98  08:42p                88,538 Drone.grp
+01/17/98  08:42p                17,944 Egg.grp
+01/17/98  08:41p                36,303 Extract.grp
+01/17/98  08:41p                11,540 FColony.grp
+01/17/98  08:42p               104,062 Guardian.grp
+01/17/98  08:42p                23,347 Hatchery.grp
+01/17/98  08:42p                37,103 Hive.grp
+01/20/98  09:52p               102,611 Hydra.grp
+01/17/98  08:43p                13,906 Infest03.grp
+01/17/98  08:42p                34,973 Lair.grp
+01/17/98  08:43p                13,806 Larva.grp
+01/17/98  08:42p                98,653 Lurker.grp
+01/17/98  08:42p                14,718 MutaCham.grp
+01/17/98  08:43p                53,959 Mutalid.grp
+01/17/98  08:42p                16,809 Mutapit.grp
+01/17/98  08:42p                13,187 Nest.grp
+01/17/98  08:42p                12,934 NydusPit.grp
+01/17/98  08:42p                51,114 Over1.grp
+01/17/98  08:42p                41,574 Over2.grp
+01/17/98  08:43p                85,802 Overlord.grp
+01/17/98  08:43p               177,706 Queen.grp
+01/17/98  08:42p                17,928 RCluster.grp
+01/17/98  08:42p                12,048 SColony.grp
+01/17/98  08:42p                17,457 Snakey.grp
+01/17/98  08:42p                12,884 Spire.grp
+01/17/98  08:42p                20,576 UCereb.grp
+01/21/98  12:14a                81,245 UIKerr.grp
+01/17/98  08:43p               350,143 ultra.grp
+01/17/98  08:42p                12,360 zavBirth.grp
+01/17/98  08:42p                   484 zavDeath.grp
+01/17/98  08:42p                 6,177 zavExplo.grp
+01/17/98  08:42p                 1,475 zbrDeath.grp
+01/17/98  08:42p               210,069 ZBuild.grp
+01/17/98  08:43p                 2,425 zCircle.grp
+01/17/98  08:42p                 8,058 zdeBirth.grp
+01/17/98  08:42p                 3,856 zdeDeath.grp
+01/17/98  08:42p                 8,395 zdrBirth.grp
+01/17/98  08:42p                 1,847 zdrDeath.grp
+01/17/98  08:42p                12,852 zegDeath.grp
+01/17/98  08:42p                 3,787 zegSpawn.grp
+01/21/98  12:39a                52,835 Zergling.grp
+01/17/98  08:42p                 1,842 zguDeath.grp
+01/17/98  08:43p                 7,984 zhyBirth.grp
+01/17/98  08:43p                 3,182 zhyDeath.grp
+01/17/98  08:43p                 3,189 zlaDeath.grp
+01/17/98  08:43p                13,688 zmuBirth.grp
+01/17/98  08:43p                   840 zmuDeath.grp
+01/17/98  08:43p                16,965 zovBirth.grp
+01/17/98  08:43p                 1,869 zovDeath.grp
+01/17/98  08:43p                15,231 zquBirth.grp
+01/17/98  08:43p                 1,722 zquDeath.grp
+01/17/98  08:42p                 8,003 ZSpawn01.grp
+01/17/98  08:42p                12,824 ZSpawn02.grp
+01/17/98  08:42p                15,811 ZSpawn03.grp
+01/17/98  08:43p                15,314 zulBirth.grp
+01/17/98  08:43p                 9,635 zulDeath.grp
+01/17/98  08:43p                 8,169 zzeBirth.grp
+01/17/98  08:43p                 3,274 zzeDeath.grp
+              65 File(s)      2,270,123 bytes
+                          1,484,013,568 bytes free
+ Volume in drive T is Famine
+ Volume Serial Number is AC2E-E2CA
+
+ Directory of T:\Projects\Star\Final\unit\zerg\LowM
+
+01/17/98  08:43p               161,430 Overlord.grp
+               1 File(s)        161,430 bytes
+                          1,484,013,568 bytes free
+T:\Projects\Star\Final\unit:
+running C:\WINNT\system32\cmd.exe /c dir *.grp 
+T:\Projects\Star\Final\unit\bullet:
+running C:\WINNT\system32\cmd.exe /c dir *.grp 
+T:\Projects\Star\Final\unit\bullet\LowM:
+running C:\WINNT\system32\cmd.exe /c dir *.grp 
+T:\Projects\Star\Final\unit\cmdbtns:
+running C:\WINNT\system32\cmd.exe /c dir *.grp 
+T:\Projects\Star\Final\unit\cmdbtns\LowM:
+running C:\WINNT\system32\cmd.exe /c dir *.grp 
+T:\Projects\Star\Final\unit\flingy:
+running C:\WINNT\system32\cmd.exe /c dir *.grp 
+T:\Projects\Star\Final\unit\flingy\LowM:
+running C:\WINNT\system32\cmd.exe /c dir *.grp 
+T:\Projects\Star\Final\unit\neutral:
+running C:\WINNT\system32\cmd.exe /c dir *.grp 
+T:\Projects\Star\Final\unit\neutral\LowM:
+running C:\WINNT\system32\cmd.exe /c dir *.grp 
+T:\Projects\Star\Final\unit\protoss:
+running C:\WINNT\system32\cmd.exe /c dir *.grp 
+T:\Projects\Star\Final\unit\protoss\LowM:
+running C:\WINNT\system32\cmd.exe /c dir *.grp 
+T:\Projects\Star\Final\unit\terran:
+running C:\WINNT\system32\cmd.exe /c dir *.grp 
+T:\Projects\Star\Final\unit\terran\LowM:
+running C:\WINNT\system32\cmd.exe /c dir *.grp 
+T:\Projects\Star\Final\unit\thingy:
+running C:\WINNT\system32\cmd.exe /c dir *.grp 
+T:\Projects\Star\Final\unit\thingy\LowM:
+running C:\WINNT\system32\cmd.exe /c dir *.grp 
+T:\Projects\Star\Final\unit\thingy\Tileset:
+running C:\WINNT\system32\cmd.exe /c dir *.grp 
+T:\Projects\Star\Final\unit\thingy\Tileset\ashworld:
+running C:\WINNT\system32\cmd.exe /c dir *.grp 
+T:\Projects\Star\Final\unit\thingy\Tileset\badlands:
+running C:\WINNT\system32\cmd.exe /c dir *.grp 
+T:\Projects\Star\Final\unit\thingy\Tileset\install:
+running C:\WINNT\system32\cmd.exe /c dir *.grp 
+T:\Projects\Star\Final\unit\thingy\Tileset\jungle:
+running C:\WINNT\system32\cmd.exe /c dir *.grp 
+T:\Projects\Star\Final\unit\thingy\Tileset\platform:
+running C:\WINNT\system32\cmd.exe /c dir *.grp 
+T:\Projects\Star\Final\unit\wirefram:
+running C:\WINNT\system32\cmd.exe /c dir *.grp 
+T:\Projects\Star\Final\unit\zerg:
+running C:\WINNT\system32\cmd.exe /c dir *.grp 
+T:\Projects\Star\Final\unit\zerg\LowM:
+running C:\WINNT\system32\cmd.exe /c dir *.grp 

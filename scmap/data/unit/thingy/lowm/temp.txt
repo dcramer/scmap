@@ -1,0 +1,29 @@
+ Volume in drive T is Famine
+ Volume Serial Number is AC2E-E2CA
+
+ Directory of T:\Projects\Star\Final\unit\thingy\LowM
+
+01/21/98  03:09p        <DIR>          .
+01/21/98  03:09p        <DIR>          ..
+01/20/98  07:00p                 2,837 bBlood01.grp
+01/20/98  07:00p                 1,731 bBlood02.grp
+01/20/98  07:00p                 1,399 bBlood03.grp
+01/20/98  07:00p                 1,931 bBlood04.grp
+01/20/98  07:02p                 1,278 dust01.grp
+01/20/98  07:02p                 1,091 dust02.grp
+01/20/98  07:02p                 1,278 dust03.grp
+01/20/98  07:02p                 1,232 dust04.grp
+01/20/98  07:02p                 1,237 dust05.grp
+01/20/98  07:02p                   515 dust06.grp
+01/20/98  07:02p                   794 dust07.grp
+01/20/98  07:02p                   410 dust08.grp
+01/20/98  07:02p                   700 dust09.grp
+01/20/98  07:02p                18,494 ebbCloud.grp
+01/20/98  07:02p                52,542 emsBeam.grp
+01/20/98  07:02p                 5,171 emsHit.grp
+01/20/98  07:02p                19,939 ensnare.grp
+01/20/98  07:02p                 6,402 hkexplod.grp
+01/21/98  03:09p                     0 temp.txt
+01/20/98  07:03p                19,866 zblddthS.grp
+              22 File(s)        138,847 bytes
+                          1,552,846,848 bytes free

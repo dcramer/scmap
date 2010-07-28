@@ -1,0 +1,14 @@
+</COMMENT Establishing Shot for Protoss Level 8x>
+
+</FADESPEED 100>
+</DISPLAYTIME 8000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpax\xProtosA.pcx>
+</FONTCOLOR glue\palpax\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"COUNTDOWN"
+
+Main Protoss base, the planet Shakuras
+</PAGE>

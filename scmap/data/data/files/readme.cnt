@@ -1,0 +1,31 @@
+:Base README.HLP
+:Title Starcraft Readme
+1 Introduction=LINK_INTRODUCTION>MAIN
+1 Windows 95, Windows NT, and DirectX=LINK_MICROSOFT>MAIN
+1 Manual Errata=LINK_MANUALERRATA>MAIN
+1 Hints, Tips and Other Information
+2 Keyboard Shortcuts=LINK_KEYBOARDSHORTCUTS>MAIN
+2 Higher Ground=LINK_HIGHERGROUND>MAIN
+2 Damage Types and Unit Sizes=LINK_GOODDAMAGE>MAIN
+2 Use of Special Abilities=LINK_SPECIALABILITIES>MAIN
+2 MiniMap Options=LINK_MINIMAPOPTIONS
+2 Screen Shots=LINK_SCREENSHOTS>MAIN
+2 Scoring=LINK_SCORING>MAIN
+2 Spawning=LINK_SPAWNING>MAIN
+2 Campaign Editor=LINK_CAMPAIGNEDITOR>MAIN
+1 Multiplayer Starcraft
+2 Battle.net=LINK_MULTIBATTLENET>MAIN
+2 America Online=LINK_MULTIAOL>MAIN
+2 Local Area Network=LINK_MULTILAN>MAIN
+2 Modem=LINK_MULTIMODEM>MAIN
+2 Serial=LINK_MULTISERIAL>MAIN
+1 Technical Support
+2 Contact Blizzard Technical Support=LINK_TECHNICALSUPPORT>MAIN
+2 General Troubleshooting=LINK_GENERALTROUBLESHOOTING>MAIN
+2 Video Cards=LINK_VIDEOCARDS>MAIN
+2 Compatibility Issues=LINK_COMPATIBILITY>MAIN
+2 Sound Cards=LINK_SOUNDCARDS>MAIN
+2 Virtual Memory=LINK_VIRTUALMEMORY>MAIN
+1 Uninstalling
+2 Uninstall Starcraft=LINK_UNINSTALLSTARCRAFT>MAIN
+2 Uninstall Battle.net=LINK_UNINSTALLBATTLENET>MAIN

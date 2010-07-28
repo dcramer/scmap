@@ -1,0 +1,26 @@
+</COMMENT epilogue for Starcraft>
+</FADESPEED 100>
+
+</COMMENT #############################################################>
+</DISPLAYTIME 25000>
+</BACKGROUND glue\palta\Blank.pcx>
+</FONTCOLOR glue\palta\tfont.pcx>
+
+</SCREENLEFT>
+EPILOGUE
+
+As the chaotic, swirling energies subsided, a heavy silence settled over the battlefields of Aiur. Due to Tassadar's noble sacrifice, the Overmind was now dead and the Zerg Swarms were scattered and broken. But as the heroes surveyed their once glorious homeland, they realized that their victory had cost them all but their lives. Aiur was left nothing more than a smoldering ruin. Those few Protoss who survived the final battle could only wonder what the future would hold for their race.
+</PAGE>
+
+
+</COMMENT #############################################################>
+</DISPLAYTIME 15000>
+</COMMENT change background to identical background just to force fade>
+</BACKGROUND glue\palta\Blank.pcx>
+</FONTCOLOR glue\palta\tfont.pcx>
+And far away, on the distant planet Char, Kerrigan, the self-styled Queen of Blades, knew that the time of her ascension was
+at hand.
+</PAGE>
+
+
+

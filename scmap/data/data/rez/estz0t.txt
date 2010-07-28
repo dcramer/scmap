@@ -1,0 +1,13 @@
+</COMMENT Establishing Shot for Zerg Tutorial Level>
+
+</FADESPEED 100>
+</COMMENT #############################################################>
+</DISPLAYTIME 5000>
+</BACKGROUND glue\palza\ZergA.pcx>
+</FONTCOLOR glue\palza\tfont.pcx>
+
+</SCREENLOWERLEFT>
+ZERG CAMPAIGN - OVERMIND
+
+Confederate Capitol World Tarsonis
+</PAGE>

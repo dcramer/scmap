@@ -1,0 +1,14 @@
+</COMMENT Establishing Shot for Zerg Level 3x>
+
+</FADESPEED 100>
+</DISPLAYTIME 8000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palta\TerranA.pcx>
+</FONTCOLOR glue\palta\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"THE KEL-MORIAN COMBINE"
+
+Command ship Hyperion, orbiting the planet Moria
+</PAGE>

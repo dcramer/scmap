@@ -1,0 +1,14 @@
+</COMMENT Establishing Shot for Terran Level 4x>
+
+</FADESPEED 100>
+</DISPLAYTIME 8000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\paltcx\xTerranc.pcx>
+</FONTCOLOR glue\paltcx\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"ASSAULT ON KORHAL"
+
+UED Flagship Aleksander, low orbit over the planet Korhal; Dominion throne-world
+</PAGE>

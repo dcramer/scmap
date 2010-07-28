@@ -1,0 +1,14 @@
+</COMMENT Establishing Shot for Protoss Level 6x>
+
+</FADESPEED 100>
+</DISPLAYTIME 8000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpb\ProtossB.pcx>
+</FONTCOLOR glue\palpb\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"RETURN TO CHAR"
+
+Protoss fleet, high orbit over the planet Char
+</PAGE>

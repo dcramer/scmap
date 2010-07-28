@@ -1,0 +1,14 @@
+</COMMENT Establishing Shot for Protoss Level 2x>
+
+</FADESPEED 100>
+</DISPLAYTIME 8000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palzax\XZerga.pcx>
+</FONTCOLOR glue\palzax\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"DUNES OF SHAKURAS"
+
+Protoss base camp on the planet Shakuras
+</PAGE>

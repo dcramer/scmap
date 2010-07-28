@@ -1,0 +1,995 @@
+</COMMENT credits for Starcraft>
+</FADESPEED 100>
+
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palmm\backgnd.pcx>
+</FONTCOLOR glue\palmm\tfont.pcx>
+</SCREENCENTER>
+Game Design
+
+Blizzard Entertainment
+</PAGE>
+
+
+</SCREENCENTER>
+Executive Producer
+
+Allen Adham
+</PAGE>
+
+
+</SCREENCENTER>
+Producers
+
+James Phinney
+Bill Roper
+Mike Morhaime
+</PAGE>
+
+
+</SCREENCENTER>
+Senior Designers
+
+James Phinney
+Chris Metzen
+</PAGE>
+
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpd\backgnd.pcx>
+</FONTCOLOR glue\palpd\tfont.pcx>
+</SCREENLEFT>
+Lead Programmer
+
+Bob Fitch
+</PAGE>
+
+
+</SCREENLEFT>
+Programming
+
+Collin Murray
+Michael Morhaime
+Frank Pearce
+Patrick Wyatt
+Mike O’Brien
+Gage Galinger
+Dan Liebgold
+Rob Huebner
+</PAGE>
+
+
+</SCREENLEFT>
+AI Programming
+
+Bob Fitch
+Brian Fitzgerald
+Brian Bishop
+</PAGE>
+
+
+</SCREENLEFT>
+Campaign Editor
+
+Jeff Strain
+</PAGE>
+
+
+</SCREENLEFT>
+Battle.net Programming
+
+Mike O’Brien
+Scott Coleman
+Dan Liebgold
+</PAGE>
+
+
+</SCREENLEFT>
+Installer Programming
+
+Michael Heiberg
+</PAGE>
+
+
+</COMMENT #############################################################>
+</BACKGROUND glue\paltd\backgnd.pcx>
+</FONTCOLOR glue\paltd\tfont.pcx>
+</SCREENRIGHT>
+Art Directors
+
+Samwise Didier
+Duane Stinnett
+</PAGE>
+
+
+</SCREENRIGHT>
+3D Artwork
+
+Justin Thavirat
+Trevor Jacobs
+Samwise Didier
+Roman Kenney
+Maxx Marshall
+Rob McNaughton
+Micky Neilsen
+David Pursley
+</PAGE>
+
+
+</SCREENRIGHT>
+3D Artwork
+
+Eric Flannum
+Bill Petras
+Duane Stinnett
+Nick Carpenter
+Dave Berggren
+Brian Sousa
+Stu Rose
+</PAGE>
+
+
+</SCREENRIGHT>
+Artwork
+
+Dave Berggren
+Samwise Didier
+Trevor Jacobs
+Justin Thavirat
+Nick Carpenter
+Duane Stinnett
+</PAGE>
+
+
+</SCREENRIGHT>
+Technical Artists
+
+Robert Djordjevich
+Jeffrey Vaughn
+Peter Underwood
+</PAGE>
+
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palzv\backgnd.pcx>
+</FONTCOLOR glue\palzv\tfont.pcx>
+</SCREENLEFT>
+Director of Blizzard Film
+
+Matt Samia
+</PAGE>
+
+
+</SCREENLEFT>
+Cinematic Directors
+
+Matt Samia
+Duane Stinnett
+</PAGE>
+
+
+</SCREENLEFT>
+Cinematic 3D Artists
+
+Matt Samia
+Duane Stinnett
+Brian Sousa
+Nick Carpenter
+Trevor Jacobs
+Harley Huggins II
+Rob McNaughton
+</PAGE>
+
+
+</SCREENLEFT>
+Cinematic 3D Artists
+
+Scott Abeyta
+Stu Rose
+Sharon Shellman
+Bill Petras
+David Pursley
+Maxx Marshall
+Eric Flannum
+</PAGE>
+
+
+</SCREENLEFT>
+Cinematic Technical Artist/Video Engineer
+
+Joeyray Hall
+</PAGE>
+
+
+</SCREENLEFT>
+Storyboard Artists
+
+Nick Carpenter
+Bill Petras
+David Pursley
+Matt Samia
+Brian Sousa
+Duane Stinnett
+Justin Thavirat
+Stu Rose
+</PAGE>
+
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palrp\backgnd.pcx>
+</FONTCOLOR glue\palrp\tfont.pcx>
+</SCREENRIGHT>
+Audio Producers
+
+Glenn Stafford
+Shane Dabiri
+</PAGE>
+
+
+</SCREENRIGHT>
+Music
+
+Glenn Stafford
+Jason Hayes
+Derek Duke
+</PAGE>
+
+
+</SCREENRIGHT>
+Additional Music
+
+Big Tuna
+Tracy W. Bush
+</PAGE>
+
+
+</SCREENRIGHT>
+Sound Design
+
+Glenn Stafford
+Jason Hayes
+Tracy W. Bush
+Joeyray Hall
+Matt Uelmen
+</PAGE>
+
+
+</SCREENRIGHT>
+Voice Production, Direction & Casting
+
+Glenn Stafford
+Mark Schwarz
+Chris Metzen
+</PAGE>
+
+
+</SCREENRIGHT>
+Recording Engineer
+
+Robert Koenigsberg
+</PAGE>
+
+
+</SCREENRIGHT>
+Script & Story
+
+Chris Metzen
+James Phinney
+</PAGE>
+
+
+</SCREENRIGHT>
+Voices
+
+Glynnis Talken
+Michael Gough
+Paul Eiding
+Lani Minella
+Bill Roper
+Glenn Stafford
+Chris Metzen
+</PAGE>
+
+
+</SCREENRIGHT>
+Voices
+
+Matt Samia
+Jason Hayes
+Tiffany Hayes
+Tracy W. Bush
+Allen Adham
+Paul W. Sams
+Jorge Rivero
+</PAGE>
+
+
+</SCREENRIGHT>
+Voices
+
+Harley Huggins II
+Duane Stinnett
+Micky Neilson
+James W. Harper
+Jack Ritschel
+Robert Clotworthy
+James 'Whiteboy' Page
+</PAGE>
+
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palrz\backgnd.pcx>
+</FONTCOLOR glue\palrz\tfont.pcx>
+</SCREENLEFT>
+Strike Team
+
+Allen Adham
+James Phinney
+Mike O’Brien
+Samwise Didier
+Chris Metzen
+Bob Fitch
+Mike Morhaime
+Patrick Wyatt
+Rob Pardo
+</PAGE>
+
+
+</SCREENLEFT>
+Associate Producers
+
+Shane Dabiri
+Mark Kern
+</PAGE>
+
+
+</SCREENLEFT>
+Scenario Design
+
+James Phinney
+Chris Metzen
+Eric Flannum
+</PAGE>
+
+
+</SCREENLEFT>
+Scenario Layout
+
+Eric Flannum
+Dean Shipley
+Ian Welke
+Chris Sigaty
+Rev. Dan Moore
+</PAGE>
+
+
+</SCREENLEFT>
+Manual Design & Layout
+
+Peter Underwood
+Bill Roper
+Chris Metzen
+Jeffrey Vaughn
+</PAGE>
+
+
+</SCREENLEFT>
+Manual Artwork
+
+Samwise Didier
+Chris Metzen
+Bill Petras
+Sharon Shellman
+Brian Sousa
+Stu Rose
+Eric Flannum
+Scott Abeyta
+Peter Underwood
+Rob McNaughton
+</PAGE>
+
+
+</SCREENRIGHT>
+Box Artwork
+
+Duane Stinnett
+Bill Petras
+Nick Carpenter
+Brian Sousa
+Matt Samia
+</PAGE>
+
+
+</SCREENRIGHT>
+Box Design
+
+Kathy Carter (almost Bridenbecker)
+Jessica Monson
+</PAGE>
+
+
+</SCREENLEFT>
+Help File Design and Layout
+
+Robert Bridenbecker
+John Schwartz
+Mick Yanko
+</PAGE>
+
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palrt\backgnd.pcx>
+</FONTCOLOR glue\palrt\tfont.pcx>
+</SCREENRIGHT>
+Director of Operations
+
+Isaac Matarasso
+</PAGE>
+
+
+</SCREENRIGHT>
+Director of Support Services
+
+Robert Bridenbecker
+</PAGE>
+
+
+</SCREENRIGHT>
+QA Manager
+
+Michael Brannigan
+</PAGE>
+
+
+</SCREENRIGHT>
+Lead Tester
+
+Chris Sigaty
+</PAGE>
+
+
+</SCREENRIGHT>
+Assistant Lead Tester
+
+Ian Welke
+</PAGE>
+
+
+</SCREENRIGHT>
+QA Analysts
+
+Geoff Fraizer
+Mike Givens
+David Hale
+Brian Love
+Rev. Dan Moore
+Matt Morris
+Dean Shipley
+Jamie Wiggs
+Ken Hagler
+</PAGE>
+
+
+</SCREENRIGHT>
+Additional Testing
+
+Eric Dodds
+Frank Gilson
+John Lagrave
+Judah Mehler
+Nick Santucci
+Derek Simmons
+Phil Stuart
+Chris Millar
+</PAGE>
+
+
+</SCREENRIGHT>
+Additional Testing
+
+Christian Arretche
+Ted 'Highlander' Barken
+Bo Bell
+Kirk Mahony
+Scott Mercer
+Pat Nagle
+Mr. Mike Pirozzi
+John Schwartz
+</PAGE>
+
+
+</SCREENRIGHT>
+Hardware Specialist
+
+Vic Larson
+</PAGE>
+
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palnl\backgnd.pcx>
+</FONTCOLOR glue\palnl\tfont.pcx>
+</SCREENLEFT>
+Lead Technical Support
+
+Twain Martin
+John Schwartz
+</PAGE>
+
+
+</SCREENLEFT>
+Technical Support
+
+Michael Barken
+Roger Eberhart
+Liem Le
+Kirk Mahony
+Mike Murphy
+Chad Myers
+Brandon Riseling
+Jason Schmit
+Mick Yanko
+</PAGE>
+
+
+</SCREENLEFT>
+Online Support
+
+Alen Lapidis
+Scott Mercer
+Pat Nagle
+Collin Smith
+</PAGE>
+
+
+</SCREENLEFT>
+Office Administration
+
+Christina Cade
+Kira Inlow
+Danna Martin
+</PAGE>
+
+
+</SCREENLEFT>
+Executive Dunsel
+
+Alan Dabiri
+</PAGE>
+
+
+</SCREENLEFT>
+Localization Producers
+
+Flavie Gufflet-Dowling
+Shane Dabiri
+</PAGE>
+
+
+</SCREENLEFT>
+Globalization Manager
+
+Louis Mutter
+</PAGE>
+
+
+</SCREENLEFT>
+Localization Coordinator
+
+Antje Hink
+</PAGE>
+
+
+</SCREENLEFT>
+Localization QA
+
+Padraig McCaul
+Shane Moran
+Juan Martinez
+</PAGE>
+
+
+</SCREENLEFT>
+Localization Engineer
+
+Mike Hayes
+Damien Monaghan
+</PAGE>
+
+
+</SCREENLEFT>
+Localization Support
+
+Florian Muller
+Astrid Schiller
+</PAGE>
+
+
+</SCREENLEFT>
+Localization Graphics and Design
+
+Sheila Stephens
+</PAGE>
+
+
+</SCREENLEFT>
+Information Systems Manager
+
+Adrian Luff
+</PAGE>
+
+
+</SCREENLEFT>
+Information Systems
+
+Chad Chaudhry
+Andrew Edwards
+Hung Nguyen
+Jason Schmit
+</PAGE>
+
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpv\backgnd.pcx>
+</FONTCOLOR glue\palpv\tfont.pcx>
+</SCREENRIGHT>
+Public Relations
+
+Susan Wooley
+</PAGE>
+
+
+</SCREENRIGHT>
+Business Development
+
+Paul W. Sams
+Melissa Edwards
+Shannon Welch
+</PAGE>
+
+
+</SCREENRIGHT>
+Legal Counsel
+
+Paula V. Duffy
+Eric Roeder
+Kevin Crook
+Mark Reichenthal
+</PAGE>
+
+
+</SCREENRIGHT>
+Marketing
+
+John Patrick
+Steve Huot
+Neal Hubbard
+Kathy Carter
+Jessica Monson
+Steve Parker
+Mike Bannon
+Jeff Chenault
+</PAGE>
+
+
+</SCREENRIGHT>
+U.S. Sales
+
+Todd 'Little Buddy' Coyle
+Danny Kearns
+</PAGE>
+
+
+</SCREENRIGHT>
+International Sales
+
+Jack Allewaert
+Ralph Becker
+Christophe Ramboz
+Jean-Daniel Pages
+Florian Mueller
+</PAGE>
+
+
+</SCREENRIGHT>
+Direct Sales
+
+Rob Beatie
+Kim Farrington
+</PAGE>
+
+
+</SCREENRIGHT>
+Manufacturing
+
+John Goodman
+Tom Bryan
+Jaime Chavez
+</PAGE>
+
+
+</SCREENRIGHT>
+Battle.net Hosting Partners
+
+GlobalCenter
+MindSpring
+Exodus
+Multiplay
+</PAGE>
+
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palmm\backgnd.pcx>
+</FONTCOLOR glue\palmm\tfont.pcx>
+</SCREENLEFT>
+Thanks To
+(in no particular order)
+
+Blizzard North
+Walter Forbes
+Henry Silverman
+Ron Millar
+Victor & Beverly Morhaime
+Molly Miller
+Adam Maxwell
+Omar Adham
+Aunt Bunny
+Gretchen Witte
+</PAGE>
+
+
+</SCREENLEFT>
+Thanks To
+
+Trisha Ann Ochoa
+Patricia Ford
+Elizabeth Millar
+Karen Peris (glow)
+Tracey McNaughton
+Strung Out
+John P. Kee
+Evander Holyfield
+Erykah Badu
+Scooperelli
+</PAGE>
+
+
+</SCREENLEFT>
+Thanks To
+
+Bunny and Doug
+Paul and Alinda
+Paul and Renae
+Uncle Nick
+Cousin Tanya
+Paul Thomas Anderson
+the Shmoo
+Krissann
+Steven Ward Bush
+The Aesir
+</PAGE>
+
+
+</SCREENLEFT>
+Thanks To
+
+Nena
+Team Hamro
+Dr. Gregory T. Street and Gargoyle
+Walt Simonson
+Bob Huggins
+Karen Mikinka
+Jenny Porter
+Walter Takata
+Susan Stafford
+Edwin Braun
+</PAGE>
+
+
+</SCREENLEFT>
+Thanks To
+
+Chris Quiming
+Juan Giminez
+Ray’s Pork Rinds
+James Shipley
+Lisa Pearce
+Jason Thor Hall
+Damian Russell Hall
+Gene Roddenberry
+Shane’s (not Alan’s) Mom
+Pen Pen
+</PAGE>
+
+
+</SCREENLEFT>
+Thanks To
+
+Marlboro
+Dawn Sexton
+'Aunt' Fran Loosen
+Alison Leigh Breckenridge
+Dawn Caddel
+Julie Bodie
+Victoria Fitch
+Garrett Fitch
+Mason & Bunky
+Maye McGowan-Hale
+Ali McGowan
+</PAGE>
+
+
+</SCREENLEFT>
+Thanks To
+
+'Kare-Bear'
+Hawaiian Punch
+Lady Ariana
+Avalon Tattoo
+Danny Boyle
+the Notorious Crawfords
+Master Brandon Dillon
+Bill and Sharon Strain
+Ozora Mira
+Tori Fitch
+</PAGE>
+
+
+</SCREENLEFT>
+Thanks To
+
+Eufemia Palomino
+Bob & Frances Bridenbecker
+Nuclear Rabbit
+Kali Old Schoolers
+Long Island Ice Teas
+Michael Miller
+</PAGE>
+
+
+</SCREENLEFT>
+Thanks To #tfarcrats
+
+Chris 'Blackrain' Coleman
+John 'DeathDrgn' Buckland
+Jim 'jimf' Fullilove Jr.
+Carlos 'litoz' Macias
+Christopher 'hellspwn1' Matera
+Nick 'Kingy' Navarro
+Tom 'DarkClaw' Plaskon
+Robert 'Leavandor' Rogers
+Conor 'MadDog8' Sen
+Peter 'PoitNarf' Zitelli
+</PAGE>
+
+
+</SCREENLEFT>
+Thanks To
+
+Carl Sagan
+The Andrews Boys
+The Universal Cleric Corporation
+Teri Huggins Garrison
+Soul Coughing
+Valerie Marshall
+Quinn Stafford
+Lyssa Lenske
+Michael Mann
+Kristin Huntsman
+</PAGE>
+
+
+</SCREENLEFT>
+Thanks To
+
+Guttermouth
+Rebekah
+Melissa Estes
+Alen Yen
+Rush
+Annie and Baby Madeleine Strain
+the residents of SouthPark
+Big Joe
+Stymie Evets
+Sandra Schneible
+</PAGE>
+
+
+</SCREENLEFT>
+Thanks To
+
+The Barenaked Ladies
+Brazil 2001
+Chow Yun Fat
+Herodotus
+Bob Moseley
+420
+Christy Goddess
+Terry Gilliam
+Ayukawa Madoka
+Ethan Stafford
+Twain's Mafia Relatives
+</PAGE>
+
+
+</SCREENLEFT>
+Thanks To
+
+Martin Luther King Jr.
+ChickenKing
+Scott Adams
+monkeys
+Moebius
+Rage Against the Machine
+Richard Corben
+Dragu Energists
+Leslie the Long Beach Lovely
+George Lucas
+</PAGE>
+
+
+</SCREENLEFT>
+Thanks To
+
+Miyazaki Hayao
+Wizards of the Coast
+Gabrielle (Xena’s scene-stealin’ friend)
+Stanley Kubrick
+Sausage McMuffins
+The Prodigy
+Mountain Dew
+Team Fortress Software
+Storm Watch 97 'El Nino'
+Steven Spielberg
+</PAGE>
+
+
+</SCREENLEFT>
+Thanks To
+
+Lucky the donkey
+Ray the Soda Guy
+Robert A. Heinlein
+Stan Winston
+Insomnia
+the Girls of Crazy Horse Too
+Guinness Brewing Company
+The Poxy Boggards
+Natalie Merchant
+Jackie Chan
+</PAGE>
+
+
+</SCREENLEFT>
+Thanks To
+
+Sen.-CA Salty Dog (R)
+Amos the Dog
+James Cameron
+Amy Plotkowski
+SM-Rivas
+Operation CWAL
+
+And you for reading this!
+</PAGE>
+
+
+</SCREENCENTER>
+Special Thanks To
+
+Chris McLeod
+Bob and Jan Davidson
+</PAGE>
+
+
+</COMMENT #############################################################>
+</BACKGROUND glue\paltv\backgnd.pcx>
+</FONTCOLOR glue\paltv\tfont.pcx>
+</SCREENTOP>
+No pixels were harmed during the making of this game...
+</PAGE>
+
+
+</SCREENBOTTOM>
+...to the best of our knowledge...
+</PAGE>

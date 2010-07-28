@@ -1,0 +1,15 @@
+</COMMENT Establishing Shot for Zerg Level 6x>
+
+</FADESPEED 100>
+</DISPLAYTIME 8000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\paltbx\XTerranB.pcx>
+</FONTCOLOR glue\paltbx\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"FURY OF THE SWARM"
+
+Kerrigan's Fortress, on the planet Tarsonis
+Two days later
+</PAGE>

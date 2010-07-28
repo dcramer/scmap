@@ -1,0 +1,14 @@
+</COMMENT Establishing Shot for Terran Level 5ax>
+
+</FADESPEED 100>
+</DISPLAYTIME 8000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\paltax\XTerranA.pcx>
+</FONTCOLOR glue\paltax\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"EMPEROR'S FALL (GROUND ZERO)"
+
+UED command center, near the outskirts of Augustgrad; capital city of Korhal
+</PAGE>

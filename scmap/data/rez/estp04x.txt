@@ -1,0 +1,14 @@
+</COMMENT Establishing Shot for Protoss Level 4x>
+
+</FADESPEED 100>
+</DISPLAYTIME 8000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpbx\xProtosb.pcx>
+</FONTCOLOR glue\palpbx\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"THE QUEST FOR URAJ"
+
+Protoss fleet orbiting the planet Braxis
+</PAGE>

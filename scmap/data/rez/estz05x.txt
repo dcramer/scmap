@@ -1,0 +1,15 @@
+</COMMENT Establishing Shot for Zerg Level 5x>
+
+</FADESPEED 100>
+</DISPLAYTIME 8000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\paltax\XTerranA.pcx>
+</FONTCOLOR glue\paltax\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"TRUE COLORS"
+
+Outskirts of Augustgrad
+Early morning
+</PAGE>

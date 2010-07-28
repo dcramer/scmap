@@ -1,0 +1,25 @@
+</COMMENT Establishing Shot for Protoss Level 1x>
+
+</FADESPEED 100>
+</DISPLAYTIME 25000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpa\Blank.pcx>
+</FONTCOLOR glue\palpa\tfont.pcx>
+
+</SCREENLEFT>
+PROTOSS CAMPAIGN: THE STAND
+
+The nefarious Zerg Overmind has been destroyed and the Protoss homeworld of Aiur now lies in smoking ruin. As the Executor of the remaining Protoss forces, you must now attempt to reunite your beleaguered people and save them from the ravenous Zerg who still roam mindlessly across the blackened fields of Aiur.
+</PAGE>
+
+</COMMENT #############################################################>
+</DISPLAYTIME 8000>
+</BACKGROUND glue\palpa\ProtossA.pcx>
+</FONTCOLOR glue\palpa\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"ESCAPE FROM AIUR"
+
+Isolated Protoss base on the planet Aiur
+</PAGE>

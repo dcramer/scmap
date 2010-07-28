@@ -1,0 +1,14 @@
+</COMMENT Establishing Shot for Zerg Level 4x>
+
+</FADESPEED 100>
+</DISPLAYTIME 8000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\paltcx\XTerranC.pcx>
+</FONTCOLOR glue\paltcx\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"THE LIBERATION OF KORHAL"
+
+High orbit over the UED capital world, Korhal
+</PAGE>

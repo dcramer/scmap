@@ -1,0 +1,14 @@
+</COMMENT Establishing Shot for Zerg Level 8x>
+
+</FADESPEED 100>
+</DISPLAYTIME 8000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palzbx\XZergB.pcx>
+</FONTCOLOR glue\palzbx\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"TO SLAY THE BEAST"
+
+Infested platform over the planet Char; Kerrigan's base of operations
+</PAGE>

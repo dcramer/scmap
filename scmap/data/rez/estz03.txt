@@ -1,0 +1,25 @@
+</COMMENT Establishing Shot for Zerg Level 3>
+
+</FADESPEED 100>
+</DISPLAYTIME 11000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palza\Blank.pcx>
+</FONTCOLOR glue\palza\tfont.pcx>
+
+</SCREENLEFT>
+With the Protoss forces beaten and scattered, the Overmind has withdrawn the Swarms to the remote ash world of Char.
+
+</PAGE>
+
+</COMMENT #############################################################>
+</DISPLAYTIME 5000>
+</BACKGROUND glue\palzb\ZergB.pcx>
+</FONTCOLOR glue\palzb\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"THE NEW DOMINION"
+
+Primary Hive Cluster
+Planet Char
+</PAGE>

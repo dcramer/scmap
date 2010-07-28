@@ -1,0 +1,28 @@
+</COMMENT Establishing Shot for Terran Level 9>
+
+</FADESPEED 100>
+</DISPLAYTIME 16000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palta\Blank.pcx>
+</FONTCOLOR glue\palta\tfont.pcx>
+
+</SCREENLEFT>
+The Zerg, lured by the Psi Emitter's signal, descended upon the unsuspecting Confederate forces and annihilated them.
+
+Once again, the Protoss fleet, under the command of High Templar Tassadar, arrived and incinerated the planet.
+</PAGE>
+
+
+</COMMENT #############################################################>
+</DISPLAYTIME 5000>
+</BACKGROUND glue\paltc\TerranC.pcx>
+</FONTCOLOR glue\paltc\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"THE BIG PUSH"
+
+Command Ship Hyperion
+Holding perimeter orbit over
+Confederate Capitol World Tarsonis
+</PAGE>

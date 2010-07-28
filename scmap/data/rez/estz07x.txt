@@ -1,0 +1,14 @@
+</COMMENT Establishing Shot for Zerg Level 7x>
+
+</FADESPEED 100>
+</DISPLAYTIME 8000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palzax\XZergA.pcx>
+</FONTCOLOR glue\palzax\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"DRAWING OF THE WEB"
+
+Holding orbit over the planet Shakuras
+</PAGE>

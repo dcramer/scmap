@@ -1,0 +1,14 @@
+</COMMENT Establishing Shot for Terran Level 8x>
+
+</FADESPEED 100>
+</DISPLAYTIME 8000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palzb\ZergB.pcx>
+</FONTCOLOR glue\palzb\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"TO CHAIN THE BEAST"
+
+UED flagship, Aleksander, low orbit over the planet Char
+</PAGE>

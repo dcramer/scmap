@@ -1,0 +1,28 @@
+</COMMENT Establishing Shot for Protoss Level 4>
+
+</FADESPEED 100>
+</DISPLAYTIME 45000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpa\Blank.pcx>
+</FONTCOLOR glue\palpa\tfont.pcx>
+
+</SCREENLEFT>
+The Zerg Hive cluster near the Scion province was destroyed, but the Protoss forces paid a high price for their victory.
+
+Praetor Fenix, hero and Steward of the Templar, was killed during the assault. The Conclave, convinced that its stratagems are winning the war against the Zerg, have let down their guard and turned their attention to personal matters. The Judicator Aldaris was ordered to find and arrest the wayward Tassadar and bring him home to stand trial for his crimes of treason.
+
+Now, with only a small fleet for protection, Aldaris and the Executor have traveled to the ash world of Char, hoping that Tassadar is still somewhere to be found.
+</PAGE>
+
+</DISPLAYTIME 5000>
+</COMMENT #############################################################>
+</BACKGROUND glue\palpb\ProtossB.pcx>
+</FONTCOLOR glue\palpb\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"THE HUNT FOR TASSADAR"
+
+Protoss Command Ship Gantrithor
+Holding orbit over the planet Char
+</PAGE>
