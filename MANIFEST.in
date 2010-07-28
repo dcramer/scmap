@@ -1,0 +1,3 @@
+include setup.py MANIFEST.in scmap/tunit.pcx
+recursive-include scmap/dat/files *
+global-exclude *~
